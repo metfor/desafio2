@@ -2,6 +2,7 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import { DescBar } from '../components/DescBar'
+import { JordanDesc } from '../components/JordanDesc'
 import { Logo } from '../components/Logo'
 
 
@@ -15,6 +16,7 @@ const Home: NextPage = () => {
       </Head>
       <DescBar/>
       <Logo/>
+      <JordanDesc/>
       
     </div>
   )
