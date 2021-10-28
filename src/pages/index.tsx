@@ -1,10 +1,12 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import Image from 'next/image'
+import { Body } from '../components/Body'
+
+
 import { DescBar } from '../components/DescBar'
+
 import { JordanDesc } from '../components/JordanDesc'
 import { Logo } from '../components/Logo'
-
 
 const Home: NextPage = () => {
   return (
@@ -17,6 +19,7 @@ const Home: NextPage = () => {
       <DescBar/>
       <Logo/>
       <JordanDesc/>
+      <Body/>
       
     </div>
   )
