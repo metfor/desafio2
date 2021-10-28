@@ -44,10 +44,10 @@ export function Body() {
             height="302"
           />
         </ImgBox>
-        <br/>
-    </Container>
-    <Container2>
-    <ImgBox>
+        <br />
+      </Container>
+      <Container2>
+        <ImgBox>
           <MyImg
             className="img"
             src="/../public/j5.svg"
@@ -83,7 +83,7 @@ export function Body() {
             height="302"
           />
         </ImgBox>
-    </Container2>
+      </Container2>
     </>
   );
 }
