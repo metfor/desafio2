@@ -3,7 +3,6 @@ import img from '../../../public/j.svg';
 import imgMobile from '../../../public/jmobile.svg';
 export const Rectangle = styled.div`
   border: 1px solid #000;
-
   width: 100%;
   height: 23.625rem;
   background: rgba(0, 0, 0, 0.65) url(${img});

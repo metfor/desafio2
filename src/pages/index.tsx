@@ -4,10 +4,8 @@ import { Body } from '../components/Body';
 
 import { DescBar } from '../components/DescBar';
 import { Footer } from '../components/Footer';
-
 import { JordanDesc } from '../components/JordanDesc';
 import { Logo } from '../components/Logo';
-
 const Home: NextPage = () => {
   return (
     <div>

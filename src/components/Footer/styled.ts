@@ -5,6 +5,7 @@ export const Container = styled.div`
   background: black;
 `;
 export const MyP = styled.p`
+  padding-top: 15px;
   color: white;
   text-align: center;
   margin-top: 7rem;

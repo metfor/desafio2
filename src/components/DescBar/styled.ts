@@ -10,6 +10,7 @@ export const MyP = styled.p`
   color: white;
   text-align: center;
   margin-top: 0px;
+  padding-top:10px ;
   font-family: Montserrat;
   font-weight: 500;
   font-size: 1rem;
